@@ -1,7 +1,7 @@
 from data_downloader import download_file
-from data_loader import load_data, set_headers
-from data_processing import filter_data, get_annual_anomalies
-from visualization import plot_annual_anomalies
+from script_temperature.data_loader import load_data, set_headers
+from script_temperature.data_processing import filter_data, get_annual_anomalies
+from script_temperature.visualization import plot_annual_anomalies
 
 def main():
     # Parámetros de configuración
