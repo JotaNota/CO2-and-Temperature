@@ -16,6 +16,7 @@ This repository contains Jupyter Notebooks focused on analyzing and visualizing 
 - **Filename**: `World_Bank_CO2_Clean.ipynb`  
 - **Description**:  
   This notebook analyzes CO2 emission data from the World Bank. The dataset is cleaned and processed to explore trends, visualize country-specific contributions, and compare emissions over time.
+
   ![Folium CO2 Map](https://github.com/JotaNota/CO2-and-Temperature/raw/main/Folium_WB/CO2%20Follium.PNG) 
 - **Key Features**:  
   - Data cleaning and preparation.  
@@ -33,6 +34,7 @@ This repository contains Jupyter Notebooks focused on analyzing and visualizing 
 - **Filename**: `Global_temperatura_40years.ipynb`  
 - **Description**:  
   This notebook examines 40 years of historical global temperature data, highlighting increasing trends and regional variations in global warming.
+
   ![Global Temperature Map](https://github.com/JotaNota/CO2-and-Temperature/raw/main/Folium_WB/Global_temperature_40years.PNG)
 - **Key Features**:  
   - Data cleaning and preprocessing.  
@@ -48,7 +50,9 @@ This repository contains Jupyter Notebooks focused on analyzing and visualizing 
 ### 3. **CO2 Emissions and Global Temperature Combined** 🌎
 - **Filename**: `CO2_and_Global_Temperature.ipynb`  
 - **Description**:  
-  This notebook integrates the analyses from the previous two notebooks to establish relationships between CO2 emissions and global temperature increases.  
+  This notebook integrates the analyses from the previous two notebooks to establish relationships between CO2 emissions and global temperature increases.
+
+![CO2 Emissions and Temperature](https://github.com/JotaNota/CO2-and-Temperature/blob/main/Folium_WB/C02_plus_temperature.PNG)
 - **Key Features**:  
   - Correlation analysis between CO2 emissions and global temperatures.  
   - Visualization of combined datasets.  
