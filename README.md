@@ -1,4 +1,4 @@
-# DataNoob
+# CO2-and-Temperature
 Just practicing data
 Global Climate Analysis
 This repository contains Jupyter Notebooks focused on analyzing and visualizing data related to global climate trends. The notebooks analyze historical data on global temperatures and CO2 emissions, with an emphasis on uncovering trends, visualizing insights, and exploring correlations.
