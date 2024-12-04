@@ -16,7 +16,7 @@ This repository contains Jupyter Notebooks focused on analyzing and visualizing 
 - **Filename**: `World_Bank_CO2_Clean.ipynb`  
 - **Description**:  
   This notebook analyzes CO2 emission data from the World Bank. The dataset is cleaned and processed to explore trends, visualize country-specific contributions, and compare emissions over time.
-  ![CO2 Analysis](path/to/co2_analysis_image.png) 
+  ![Folium CO2 Map](https://github.com/JotaNota/CO2-and-Temperature/raw/main/Folium_WB/CO2%20Follium.PNG) 
 - **Key Features**:  
   - Data cleaning and preparation.  
   - Handling missing values.  
@@ -32,7 +32,8 @@ This repository contains Jupyter Notebooks focused on analyzing and visualizing 
 ### 2. **Global Temperature Trends (40 Years)** 🔥
 - **Filename**: `Global_temperatura_40years.ipynb`  
 - **Description**:  
-  This notebook examines 40 years of historical global temperature data, highlighting increasing trends and regional variations in global warming.  
+  This notebook examines 40 years of historical global temperature data, highlighting increasing trends and regional variations in global warming.
+  ![Global Temperature Map](https://github.com/JotaNota/CO2-and-Temperature/raw/main/Folium_WB/Global_temperature_40years.PNG)
 - **Key Features**:  
   - Data cleaning and preprocessing.  
   - Trend analysis with clear visualizations.  
